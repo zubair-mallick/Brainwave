@@ -64,8 +64,6 @@ To use this project, open your web browser and navigate to `http://localhost:300
 
 ## Best Practices
 - **Component Reusability:** Make sure to create reusable components to keep the code DRY (Don't Repeat Yourself).
-- **State Management:** Utilize React's state and context effectively to manage the application state.
-- **CSS Modules:** Use CSS modules or styled-components for scoped and maintainable CSS.
 - **Code Splitting:** Implement code splitting to improve the performance of the application.
 - **Responsive Design:** Use media queries and flexible grid layouts to ensure the application works well on all devices.
 
