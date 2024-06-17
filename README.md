@@ -22,7 +22,7 @@ This project is a modern, responsive website designed to showcase the latest web
 - **Responsive Design**: Adapts to various screen sizes and devices.
 - **Modular Components**: Built with reusable React components.
 - **Routing**: Client-side routing with React Router.
-- **Form Handling**: Modern forms with validation.
+
 
 ## Technologies Used
 
@@ -38,4 +38,4 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/modern-website.git
+   git clone https://github.com/zubair-mallick/Brainwave.git
